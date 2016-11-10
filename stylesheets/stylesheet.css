@@ -67,7 +67,7 @@ section p{
     background-color: #4F63A4;
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed,	fixed, fixed;
-    background-image: url(../img/overlay2.png), url(../img/overlay3.svg), linear-gradient(45deg, #2898D8 5%, #4F63A4 30%, #4361c2);
+    background-image: url(../overlay2.png), url(../overlay3.svg), linear-gradient(45deg, #2898D8 5%, #4F63A4 30%, #4361c2);
     background-position: top left,	center center,	center center;
     background-size: auto,	cover,	cover;
     overflow: hidden;
@@ -75,7 +75,7 @@ section p{
     color: #fff;
 }
 .divider {
-	background-image: url(../img/Ai.jpg);
+	background-image: url(../Ai.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
