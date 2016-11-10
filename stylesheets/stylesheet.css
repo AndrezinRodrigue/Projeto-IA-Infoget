@@ -30,7 +30,7 @@ body{overflow-x: hidden;}
 }
 /*header*/
 header{
-    background-image: url(../img/header.jpg);
+    background-image: url(../header.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
